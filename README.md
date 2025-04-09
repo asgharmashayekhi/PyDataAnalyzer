@@ -86,7 +86,7 @@ The tool generates the following outputs in the specified directory:
 - matplotlib
 
 
-# For detailed documentation and usage instructions, check out the [docs folder](docs/):
+## For detailed documentation and usage instructions, check out the [docs folder](docs/):
 - [Overview (English)](docs/overview-en.md) | [Overview (فارسی)](docs/overview-fa.md)
 - [Usage (English)](docs/usage_en.md) | [Usage (فارسی)](docs/usage_fa.md)
 
