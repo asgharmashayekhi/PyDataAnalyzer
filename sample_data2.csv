@@ -1,0 +1,21 @@
+product_id,product_name,category,price,inventory,rating
+101,Laptop Pro,Electronics,1200.50,45,4.7
+102,Smartphone X,Electronics,800.75,78,4.5
+103,Coffee Maker,Kitchen,65.99,124,4.2
+104,Wireless Headphones,Electronics,120.50,92,4.6
+105,Blender Premium,Kitchen,89.99,67,4.3
+106,Fitness Tracker,Health,55.75,115,4.1
+107,Smart Speaker,Electronics,99.99,82,4.4
+108,Digital Camera,Electronics,350.25,38,4.8
+109,Air Fryer,Kitchen,110.50,58,4.5
+110,Water Bottle,Sports,22.99,210,3.9
+111,Yoga Mat,Health,35.50,87,4.0
+112,Desk Lamp,Home,45.75,103,4.2
+113,Office Chair,Home,189.99,42,4.6
+114,External Hard Drive,Electronics,85.50,64,4.3
+115,Gaming Mouse,Electronics,65.99,76,4.7
+116,LED TV 50",Electronics,499.99,25,4.9
+117,Smart Watch,Electronics,175.50,53,4.4
+118,Portable Charger,Electronics,29.99,145,4.1
+119,Bluetooth Speaker,Electronics,79.99,68,4.5
+120,Toaster Oven,Kitchen,72.50,49,4.2 
